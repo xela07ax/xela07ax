@@ -15,11 +15,18 @@
 ### 🚀 Обо мне
 Специализируюсь на security-first архитектурах (Zero Trust, DPI, DLP), высоконагруженных бэкендах и минималистичном коде без over-engineering. Имею успешный опыт бесшовной миграции критической бизнес-логики с Python, Node.js, PHP, Java на Go. Активно использую AI (Gemini Pro, Claude) как полноправных партнеров по System Design и написанию кода.
 
-### 🛠 Стек технологий
-* **Backend & Core:** Go (Golang), gRPC, микросервисы, асинхронные паттерны.
-* **Databases & Infra:** PostgreSQL, Redis, ClickHouse, Docker, MinIO (S3), Linux.
-* **Frontend:** React, Vue.js.
-* **Архитектура:** Spill-to-disk стратегии, строгий контроль памяти.
+### 🛠 Стек технологий & Архитектурная экспертиза
+
+* **Core Backend & Инфраструктура:** Go (Golang), gRPC, оркестраторы и службы-спутники, Linux, Docker (Compose), Selenoid, MinIO (S3).
+* **Information Security & Anti-Fraud:** Разработка систем антифишинга и детекторов уязвимостей. Проектирование security-first архитектур: Zero Trust, Deep Packet Inspection (DPI), Data Loss Prevention (DLP), Policy-as-Code. Строгая криптография (JWT/RS256) и защита периметра (WAF).
+* **Databases & Data Engineering:** PostgreSQL, ClickHouse, Redis, Tarantool, MySQL, MSSQL, Netezza, LevelDB. 
+* **Big Data & Аналитика:** Проектирование хранилищ данных (SRC-DWH-DMR), разделение и балансировка OLTP/OLAP нагрузок.
+* **Message Brokers & Asynchronous:** Kafka, NATS, RabbitMQ, WebSockets.
+* **Domain Expertise:** Архитектура High-Load Video Delivery, AI-инфраструктура, AdTech (Ad-аукционы, RTB), высоконагруженные трекеры и системы лидогенерации.
+* **Сетевой стек & Observability:** TCP/UDP, HTTP/3 (QUIC), глубокое профилирование (pprof), Prometheus, Grafana.
+* **Polyglot & Reverse Engineering:** Уверенная работа с Lua, Python, Node.js (JS/TS), Perl. Успешный опыт реверс-инжиниринга (патчинг скомпилированного Java-кода) и миграции enterprise-legacy систем (SOAP/XML).
+* **Архитектурные паттерны:** Отказ от over-engineering, жесткий контроль выделения памяти, Spill-to-disk стратегии при потоковом анализе тяжелого трафика.
+* **Frontend:** React, Vue.js, HTML5/CSS3.
 
 ### 💻 Избранные проекты
 
