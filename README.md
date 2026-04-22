@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <img src="./xela07ax-logo.png" alt="Xela07ax Logo" width="600" />
 
-<!--
-**xela07ax/xela07ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Привет, я Алексей Ердяков! ⚡</h1>
+  <h3>Fullstack-архитектор | Elite Go Developer | Технологический лидер</h3>
+  
+  <p>
+    <b>Инженерный опыт: 10+ лет | Профильный Go (Golang): 6+ лет</b><br>
+    <i>Проектирую отказоустойчивые High-End решения и оптимизирую системы под экстремальные нагрузки.</i>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Кратко о главном
+
+Я специализируюсь на создании security-first архитектур, высоконагруженных бэкендах и минималистичном, ресурсоэффективном коде. Мой подход к разработке позволяет видеть систему целиком — от тонких настроек инфраструктуры до фронтенда.
+
+* 🔥 **High-Load & Производительность:** Оптимизация производительности под нагрузки **до 1M RPS**.
+* 🔄 **Бесшовная миграция:** Успешный опыт перевода критической бизнес-логики с Python, Node.js, PHP, Java и legacy-кода на современные микросервисные идиомы на Go **без остановки продукта**.
+* 🛡️ **Security-First:** Глубокое понимание и реализация концепций Zero Trust, Deep Packet Inspection (DPI) и Data Loss Prevention (DLP).
+* 🤖 **AI-Driven Development:** Активное использование AI (Gemini Pro, Claude, Cursor) в качестве полноправных партнеров по System Design и генерации кода.
+
+### 🛠️ Технологический арсенал
+
+* **Backend & Core:** Go (Golang), gRPC, микросервисная архитектура, асинхронные паттерны.
+* **Databases & Caching:** PostgreSQL, Redis, ClickHouse.
+* **Infrastructure & DevOps:** Docker, MinIO (S3-совместимое хранилище), Linux.
+* **Frontend:** React, Vue.js.
+* **Architecture Focus:** Отказ от "over-engineering", строгий контроль выделения памяти, spill-to-disk стратегии обработки данных.
+
+### 💻 Избранные проекты & Архитектурные решения
+
+* **[Страж СУА (iiFix.ru)](https://iifix.ru)** — AI Gateway и платформа управления безопасностью. Ядро на Go, встроенный Lua-движок для применения политик "на лету" и административная консоль на React. Единая модель управления (Consumer) и строгая верификация токенов (RS256).
+* **[chLogger]** — Высокопроизводительный асинхронный логгер на каналах для Go, оптимизированный для потоковой записи огромных массивов данных в ClickHouse.
+* **[Luna Tasks]** — Пример чистой архитектуры: API для управления задачами с упором на безопасность и читаемость кода.
+---
+
+<div align="center">
+  <p><i>Мой актуальный код (Архитектура & Prototype) доступен в репозиториях ниже.</i></p>
+  <a href="https://github.com/xela07ax">
+    <img src="https://img.shields.io/badge/GitHub-xela07ax-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+</div>
