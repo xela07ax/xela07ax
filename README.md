@@ -1,13 +1,14 @@
-<div align="center">
-  <img src="./xela07ax-logo.png" alt="Xela07ax Logo" width="450" />
-
+<div>
+  <img src="./xela07ax-logo.png" align="right" width="380" alt="Xela07ax Logo">
+  
   <h1>Привет, я Алексей Ердяков! ⚡</h1>
   <h3>Fullstack-архитектор | Elite Go Developer | Технологический лидер</h3>
-  <p><b>Инженерный опыт: 10+ лет | Профильный Go (Golang): 6+ лет</b><br>
-  <i>Проектирую отказоустойчивые High-End решения (до 1M RPS) и оптимизирую системы.</i></p>
+  
+  <p><b>Инженерный опыт: 10+ лет | Профильный Go (Golang): 6+ лет</b></p>
+  <p><i>Проектирую отказоустойчивые High-End решения (до 1M RPS) и оптимизирую системы.</i></p>
 </div>
 
----
+<br clear="all" /> ---
 
 ### 🚀 Обо мне
 Специализируюсь на security-first архитектурах (Zero Trust, DPI, DLP), высоконагруженных бэкендах и минималистичном коде без over-engineering. Имею успешный опыт бесшовной миграции критической бизнес-логики с Python, Node.js, PHP, Java на Go. Активно использую AI (Gemini Pro, Claude) как полноправных партнеров по System Design и написанию кода.
